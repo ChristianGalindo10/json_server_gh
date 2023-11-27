@@ -110,37 +110,8 @@
           ]
         },
         {
-          "id": 3,
-          "column": 1,
-          "name": "Auxiliar Adm",
-          "routes": [
-            []
-          ],
-          "estudios": [],
-          "experiencia": [],
-          "habilidades": [],
-          "competencias": []
-        },
-        {
-          "id": 4,
-          "column": 1,
-          "name": "Asistente Administrativo",
-          "routes": [
-            []
-          ],
-          "estudios": [],
-          "experiencia": [],
-          "habilidades": [],
-          "competencias": []
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "data": [
-        {
           "id": 2,
-          "column": 2,
+          "column": 1,
           "name": "Auxiliar IT",
           "routes": [
             [
@@ -175,6 +146,35 @@
           "competencias": [
             "Fundamentos ArcGIS"
           ]
+        },
+        {
+          "id": 3,
+          "column": 1,
+          "name": "Auxiliar Adm",
+          "routes": [
+            []
+          ],
+          "estudios": [],
+          "experiencia": [],
+          "habilidades": [],
+          "competencias": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "data": [
+        {
+          "id": 4,
+          "column": 2,
+          "name": "Asistente Administrativo",
+          "routes": [
+            []
+          ],
+          "estudios": [],
+          "experiencia": [],
+          "habilidades": [],
+          "competencias": []
         },
         {
           "id": 5,
@@ -383,9 +383,9 @@
           "competencias": []
         },
         {
-          "id": 23,
+          "id": 22,
           "column": 4,
-          "name": "Community de Gestión del Cambio",
+          "name": "Analista de Datos",
           "routes": [
             []
           ],
@@ -395,9 +395,9 @@
           "competencias": []
         },
         {
-          "id": 22,
+          "id": 23,
           "column": 4,
-          "name": "Analista de Datos",
+          "name": "Community de Gestión del Cambio",
           "routes": [
             []
           ],
